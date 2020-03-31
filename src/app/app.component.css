@@ -1,0 +1,11 @@
+.container {
+    width: 30%;
+    margin: 0 auto;
+    padding: 2%;
+    border: 1px solid rgba(187, 181, 181, 0.644);
+    border-radius: 5px;
+}
+.numbers-container {
+    display: flex;
+    justify-content: space-between;
+}
